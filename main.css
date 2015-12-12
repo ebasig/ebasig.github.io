@@ -613,7 +613,7 @@ header section ul li:nth-child(1n+1) {
   text-align: center;
   color:white;
 }
-#Links section ul li h4 {
+#Links h4 {
   width: 100%;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
