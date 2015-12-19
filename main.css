@@ -805,14 +805,14 @@ header section ul li:nth-child(1n+1) {
   padding-bottom: 30px;
 }
 footer {
-  background:#333333;
+  background:#666666;
   width: 100%;
   margin-top: 100px;
   padding-top: 20px;
   padding-bottom: 20px;
 }
 footer h3 {
-	background:#333333;
+	background:#666666;
 	text-align: center;
 	color:#FFFFCC;
 	letter-spacing: 3px;
