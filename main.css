@@ -26,6 +26,7 @@ ol, ul {
 table {
   border-collapse: collapse;
   border-spacing: 0;
+  align: center;
 }
 caption, th, td {
   text-align: left;
@@ -422,6 +423,18 @@ header section ul li:nth-child(1n+1) {
   text-align: center;
   padding-bottom: 30px;
 }
+#joinSIG p {
+  width: 100%;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 2px;
+  color: white;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
 #Listserv section {
   width: 100%;
   max-width: 1233px;
